@@ -64,7 +64,7 @@ Source: [UCI Machine Learning Repository - Bike Sharing Dataset](https://archive
 
 Here are a few visuals from the report (replace these with actual images in your GitHub repo):
 
-![Monthly Registered Users](images/monthly_registered_users.png)
+![Monthly Registered Users](monthly_registered_users.png)
 *Fig: Year-over-year trend comparison*
 
 ![Marketing Claims Validation](marketing_claims_validation.png)
@@ -95,7 +95,7 @@ Here are a few visuals from the report (replace these with actual images in your
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Sachin Ghogare]**  
 Master's in Applied Statistics  
 Aspiring Data Analyst | Machine Learning Enthusiast  
 
