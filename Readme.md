@@ -64,17 +64,12 @@ Source: [UCI Machine Learning Repository - Bike Sharing Dataset](https://archive
 
 Here are a few visuals from the report (replace these with actual images in your GitHub repo):
 
-![User Type Distribution](images/user_type_distribution.png)
-*Fig: Distribution of casual vs. registered users*
-
 ![Monthly Registered Users](images/monthly_registered_users.png)
 *Fig: Year-over-year trend comparison*
 
 ![Marketing Claims Validation](images/marketing_claims_validation.png)
 *Fig: Summary table for seasonal claims*
 
-![Weather Impact](images/weather_impact_analysis.png)
-*Fig: Casual and registered users under different weather conditions*
 
 ---
 
