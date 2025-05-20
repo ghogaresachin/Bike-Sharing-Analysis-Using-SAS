@@ -99,7 +99,7 @@ Here are a few visuals from the report (replace these with actual images in your
 Master's in Applied Statistics  
 Aspiring Data Analyst | Machine Learning Enthusiast  
 
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/sachin-ghogare-325427208)
+🔗 [Connect with me on LinkedIn]([www.linkedin.com/in/sachin-ghogare-325427208](https://www.linkedin.com/in/sachin-ghogare-325427208/))
 
 ---
 
