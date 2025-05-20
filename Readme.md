@@ -67,7 +67,7 @@ Here are a few visuals from the report (replace these with actual images in your
 ![Monthly Registered Users](images/monthly_registered_users.png)
 *Fig: Year-over-year trend comparison*
 
-![Marketing Claims Validation](images/marketing_claims_validation.png)
+![Marketing Claims Validation](marketing_claims_validation.png)
 *Fig: Summary table for seasonal claims*
 
 
